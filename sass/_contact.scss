@@ -1,0 +1,65 @@
+#contact{
+    .nav-link{
+      padding: .5rem 0.5rem;
+      i{
+        color: #95E1D4;
+        
+      }
+      i:hover{
+        color:rgba(241, 114, 114, 0.96);
+      }
+      
+    }
+    span{
+        font-style: italic;
+        padding-right: 2%;
+      }
+      h2 a{
+        
+          color: #ccc;
+          font-size: 40px;
+          font-family: 'Montserrat', sans-serif;
+          font-weight: 700;
+          display: inline-block;
+          margin-bottom: 20px;
+          line-height: 100%;
+          
+      }
+      
+      button{
+        background-color:#95E1D4;
+        color: white;
+      }
+  
+      .bloggs{
+        h5{
+          font-size: 0.875rem;
+          font-weight: 400;
+        }
+        small{
+          font-style: italic;
+        }
+        h6{
+          font-size: 12px;
+      line-height: 18px;
+        }
+      }
+      .instagram{
+        h5{
+          font-size: 0.875rem;
+          font-weight: 400;
+        }
+        .morePhoto{
+          color: #999;
+          font-style: italic;
+          margin-top: 10px;
+          display: inline-block;
+        }
+      }
+      .footer__copyrights {
+        span{
+          color:rgba(241, 114, 114, 0.96);
+        }
+      }
+  }
+  

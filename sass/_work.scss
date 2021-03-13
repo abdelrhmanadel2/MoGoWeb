@@ -1,0 +1,15 @@
+#work{
+    .item{
+      background-color: transparent;
+    }
+    .overlay{
+      
+          transform: translate(0);
+      }
+    @media screen and (max-width: 450px) {
+      .hover-overlay{
+        font-size: 10px;
+      }
+    
+    }
+  }

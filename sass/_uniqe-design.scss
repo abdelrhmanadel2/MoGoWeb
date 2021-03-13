@@ -1,0 +1,13 @@
+#uniqe-design {
+    background: url("../images/unique-design/bg-unique-design.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    .tab-img {
+      position: relative;
+      .phone-img {
+        position: absolute;
+        bottom: -90px;
+      right: -62px;
+      }
+    }
+  }

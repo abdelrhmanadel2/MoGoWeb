@@ -1,0 +1,32 @@
+#happyclints{
+    background: url("../images/happy-client/bg-happy-client.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    .media img {
+      width: 5rem;
+      height: 5rem;
+      object-fit: cover;
+  }
+  .media{
+    h5{
+      font-size: 0.875rem;
+      color: #333333;
+      font-weight: 400;
+    
+    }
+    h6 {
+      position: relative;
+    }
+  
+    h6:after {
+      content: "";
+      position: absolute;
+      left: 0%;
+      bottom: -10px;
+      width: 50px;
+      height: 2px;
+      background: #f38181;
+  }
+  }
+  }

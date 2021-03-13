@@ -1,0 +1,10 @@
+.blockquote-footer {
+    font-family: 'Kaushan Script', cursive;
+    color: #333333 !important;
+    font-size: 25px;
+    &::before {
+      color: #f38181;
+      display: inline !important;
+     
+    }
+  } 

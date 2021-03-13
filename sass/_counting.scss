@@ -1,0 +1,28 @@
+#counting {
+    font-family: "Montserrat", sans-serif;
+    background: #95e1d3;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 14px;
+    .itemborder {
+      border-right: 1px solid #ffffff73;
+    }
+    .itemborder:first-of-type {
+      border-left: 1px solid #ffffff73;
+    }
+    .number {
+      font-size: 65px;
+      font-weight: 700;
+      line-height: 100%;
+      margin-bottom: 10px;
+    }
+    @media (max-width: 768px){
+      .itemborder {
+        border: 0px;
+      }
+      .itemborder:first-of-type {
+        border: 0px;
+      }
+    }
+  }

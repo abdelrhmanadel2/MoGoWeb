@@ -1,0 +1,31 @@
+#blog{
+
+    .blog-date{
+      background-color: #95e1d3;
+      bottom: 0.5rem;
+      left: -0.5em;
+      height: 4rem;
+      width: 3.5rem;
+      color: #ffffff;
+      span:first-of-type {
+        font-size: 30px;
+        font-weight: 700;
+        font-family: "Montserrat";
+        text-align: center;
+       
+    }span:last-of-type {
+      font-size: 15px;
+      font-weight: 300;
+      font-style: italic;
+      line-height: 8px;
+  }
+  
+    }
+  i{
+    color: #95e1d3;
+  }
+  footer >span{
+    margin-right: 1em;
+    margin-left: 0.5em;
+  }
+  }

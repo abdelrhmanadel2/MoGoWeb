@@ -1,0 +1,45 @@
+@import"variables";
+@import"about-us";
+@import"basics";
+@import"blog";
+@import"contact";
+@import"counting";
+@import"functions";
+@import"happyclints";
+@import"header";
+@import"map";
+@import"nav";
+@import"ourteam";
+@import"placeholder";
+@import"servece";
+@import"testmonials";
+@import"uniqe-design";
+@import"whattodo";
+@import"work";
+
+
+/*tistemonials*/
+#testemonials,#customerOpentions{
+  background-color: #f8f8f8;
+  .slider-btn{
+    width: 5%;
+  }}
+ 
+
+// partenership
+#partenership{
+  background-color: #f8f8f8;
+}
+
+
+
+/*customeropinion*/
+#customerOpentions{
+  background-color: white;
+@media screen and (max-width: 575px) {
+
+  & .media-img{
+    width: 75%;
+  }
+}
+}

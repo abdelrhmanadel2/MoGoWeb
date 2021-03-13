@@ -1,0 +1,45 @@
+
+.navcolor{
+    background: rgba(241, 114, 114, 0.96);
+}
+#navbar{
+    
+    .container{
+        .navbar-brand{
+        font-size: 30px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Montserrat";}
+        .nav-link{
+            color:white;
+            padding-bottom: 0;
+            padding-top: 0;
+        }
+    li.active{
+        width: fit-content;
+        color:#fce38a;
+        // padding-bottom: 0.8rem;
+      ::after{
+        content: "";
+        position: relative;
+        border-top: 3px solid #fce38a;
+        display: block;
+        width: 100%;
+        } 
+       
+    a{
+        color:#fce38a;
+        
+
+       
+    }
+
+
+}
+i{  color:white;
+    margin: auto 0.2rem;
+}
+
+}
+}
+
