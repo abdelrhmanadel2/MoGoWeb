@@ -1,0 +1,430 @@
+ <!---------------Main -------------->
+    <main>
+        <!---------------Colorlib app -------------->
+        <header class="main-header">
+            <div class="container ">
+                <div class="row">
+                    <article class="main-header__content-wrapper">
+                        <h1>Colorlib app</h1>
+                        <h4>Everything You Need. To Start Selling Online Beautifully</h4>
+                        <form>
+                            <input type="text" placeholder="name@company.com" />
+                            <button class="btn button  btn_primary">Get Started</button>
+                        </form>
+                    </article>
+                    <figure><img class="main-header__bg-img" src="Assets/bg-img/welcome-img.png" alt="" /></figure>
+                </div>
+            </div>
+        </header>
+        <!--------------- Why is it special -------------->
+        <section class="special">
+            <div class="container">
+
+                <h2>Why Is It Special</h2>
+
+                <ul class="row">
+                    <li class="special__item">
+                        <i class="fas fa-mobile-alt fa-2x"></i>
+                        <h3>Easy to use</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                            sed porro perferendis minima corporis ex excepturi velit obcaecati
+                            doloremque architecto, assumenda perspiciatis in beatae,
+                            accusantium quo tenetur?
+                        </p>
+                    </li>
+                    <li class="special__item">
+                        <i class="fas fa-pencil-ruler fa-2x"></i>
+                        <h3>powerful Design</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                            sed porro perferendis minima corporis ex excepturi velit obcaecati
+                            doloremque architecto, assumenda perspiciatis in beatae,
+                            accusantium quo tenetur?
+                        </p>
+                    </li>
+                    <li class="special__item">
+                        <i class="fas fa-cog fa-2x"></i>
+                        <h3>Customizability</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum
+                            voluptates illo corrupti doloremque voluptatibus, tempore repellat
+                            architecto dolorum quaerat hic facere ducimus totam quis provident
+                            eveniet ad culpa commodi aspernatur.
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <!-- Best Proposition-->
+        <section class="proposition">
+            <div class="container">
+                <div class="row">
+                    <figure><img src="./Assets/bg-img/special.png" alt=""></figure>
+                    <article class="proposition__content-wrapper">
+                        <h2>Our Best Propositions for You!</h2>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                            Reprehenderit necessitatibus rem sunt eligendi ut doloribus
+                            tenetur odio asperiores, officiis nemo, dolor deleniti ullam et
+                            dolorum? Aperiam, modi? Laudantium, libero eius?
+                        </p>
+                        <div class="proposition__buttons">
+                            <a href="#" class="btn"><i class="fab fa-android fa-2x"></i><div class="avilable"> <span>avilable on</span> Google Store</div></a>
+                            <a href="#" class="btn"><i class="fab fa-apple fa-2x"></i><div class="avilable"> <span>avilable on</span>Apple Store</div></a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+        <!-- Features -->
+        <section class="features">
+            <div class="container">
+
+                <h2>Awesome Features</h2>
+
+                <div class="features__items row">
+                    <div class="feature">
+                        <img src="https://img.icons8.com/ios/25/fc3b7e/user--v1.png" />
+                        <span>Awsome Experience</span>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                            sed porro perferendis minima corporis ex excepturi velit obcaecati
+                            doloremque architecto, assumenda perspiciatis in beatae,
+                            accusantium quo tenetur?
+                        </p>
+                    </div>
+                    <div class="feature">
+                        <img src="https://img.icons8.com/ios-glyphs/25/fc3b7e/pulse.png" />
+                        <span>Awsome Experience</span>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                            sed porro perferendis minima corporis ex excepturi velit obcaecati
+                            doloremque architecto, assumenda perspiciatis in beatae,
+                            accusantium quo tenetur?
+                        </p>
+                    </div>
+                    <div class="feature">
+                        <img src="https://img.icons8.com/ios/25/fc3b7e/speed.png" />
+                        <span>Awsome Experience</span>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                            sed porro perferendis minima corporis ex excepturi velit obcaecati
+                            doloremque architecto, assumenda perspiciatis in beatae,
+                            accusantium quo tenetur?
+                        </p>
+                    </div>
+                    <div class="feature">
+                        <img src="https://img.icons8.com/carbon-copy/25/fc3b7e/paint-palette.png" /> <span>Awsome
+                            Experience</span>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                            sed porro perferendis minima corporis ex excepturi velit obcaecati
+                            doloremque architecto, assumenda perspiciatis in beatae,
+                            accusantium quo tenetur?
+                        </p>
+                    </div>
+                    <div class="feature">
+                        <img src="https://img.icons8.com/pastel-glyph/25/fc3b7e/crown--v2.png" /> <span>Awsome
+                            Experience</span>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                            sed porro perferendis minima corporis ex excepturi velit obcaecati
+                            doloremque architecto, assumenda perspiciatis in beatae,
+                            accusantium quo tenetur?
+                        </p>
+                    </div>
+                    <div class="feature">
+                        <img src="https://img.icons8.com/small/25/fc3b7e/headphones.png" />
+                        <span>Awsome Experience</span>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                            sed porro perferendis minima corporis ex excepturi velit obcaecati
+                            doloremque architecto, assumenda perspiciatis in beatae,
+                            accusantium quo tenetur?
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Video -->
+        <section class="video">
+            <div class="container">
+                <div class="row">
+                    <img class="video__play"
+                        src="https://img.icons8.com/color/100/000000/play-button-circled--v1.png" />
+                    <video class="video__player" poster="Assets/bg-img/video.jpg">
+                        <source src="movie.mp4" type="video/mp4" />
+                        <source src="movie.ogg" type="video/ogg" />
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+            </div>
+        </section>
+
+        <!-- status -->
+        <section class="status">
+            <div class="container">
+                <div class="stats__blocks row">
+                    <div class="stats__block">
+                        <i class="fas fa-arrow-down fa-2x"></i>
+                        <div class="stats__block_texts">
+                            <span class="number">90</span>
+                            <div class="text">
+                                <span>App</span>
+                                <span>Downloads</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stats__block">
+                        <i class="far fa-smile-beam fa-2x"></i>
+                        <div class="stats__block_texts">
+                            <span class="number">40</span>
+                            <div class="text">
+                                <span>Happy</span>
+                                <span>Clients</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stats__block">
+                        <!--<img src="https://img.icons8.com/ios-filled/35/fffffff/user.png"/>    -->
+                        <i class="fas fa-user-alt fa-2x"></i>
+                        <div class="stats__block_texts">
+                            <span class="number">10</span>
+                            <div class="text">
+                                <span>Active</span>
+                                <span>Accounts</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stats__block ">
+                        <i class="far fa-star fa-2x"></i>
+                        <div class="stats__block_texts">
+                            <span class="number">90</span>
+                            <div class="text">
+                                <span>Total</span>
+                                <span>App Rate </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+<!-- Screenshots -->
+<section class="screenshots">
+    <div class="container">
+
+        <h2>App Screenshots</h2>
+        <div class="screenshots__content-wrapper">
+        <div class="screenshots__slider row">
+            <figure><img src="Assets/bg-img/mobile-1.jpg" alt="" /></figure>
+            <figure><img src="Assets/bg-img/mobile-1.jpg" alt="" /></figure>
+            <figure class="fig-active"><img  src="Assets/bg-img/mobile-1.jpg" alt="" /></figure>
+            <figure><img src="Assets/bg-img/mobile-1.jpg" alt="" /></figure>
+            <figure><img src="Assets/bg-img/mobile-1.jpg" alt="" /></figure>
+        </div></div>
+        <div class="screenshots__slider-radioes">
+            <input type="radio" name="slider-radioe" />
+            <input type="radio" name="slider-radioe" />
+            <input type="radio" name="slider-radioe" />
+            <input type="radio" name="slider-radioe" />
+            <input type="radio" name="slider-radioe" />
+        </div>
+    </div>
+</section>
+
+ <!-- Pricing -->
+ <section class="pricing">
+    <div class="container">
+
+        <h2>Pricing Plan</h2>
+
+        <!--    <div class="Pricing__plans">
+            <ul class="plan">
+                <li class="plan__header">
+                    <h5>Starter Plan</h5>
+                    <h3 class="plan__price"><sup>$</sup> 29</h3>
+                </li>
+                <li>Up to 10 users monthly</li>
+                <li>Unlimited updates</li>
+                <li>Free host & domain</li>
+                <li>24/7 Support</li>
+                <li>10 Unique Users</li>
+                <li>Select Plan</li>
+            </ul>
+            <ul class="plan">
+                <li class="plan__header">
+                    <h5>Starter Plan</h5>
+                    <h3 class="plan__price"><sup>$</sup> 29</h3>
+                </li>
+                <li>Up to 10 users monthly</li>
+                <li>Unlimited updates</li>
+                <li>Free host & domain</li>
+                <li>24/7 Support</li>
+                <li>10 Unique Users</li>
+                <li>Select Plan</li>
+            </ul>
+            <ul class="plan">
+                <li class="plan__header">
+                    <h5>Starter Plan</h5>
+                    <h3 class="plan__price"><sup>$</sup> 29</h3>
+                </li>
+                <li>Up to 10 users monthly</li>
+                <li>Unlimited updates</li>
+                <li>Free host & domain</li>
+                <li>24/7 Support</li>
+                <li>10 Unique Users</li>
+                <li>Select Plan</li>
+            </ul>
+            <ul class="plan">
+                <li class="plan__header">
+                    <h5>Starter Plan</h5>
+                    <h3 class="plan__price"><sup>$</sup> 29</h3>
+                </li>
+                <li>Up to 10 users monthly</li>
+                <li>Unlimited updates</li>
+                <li>Free host & domain</li>
+                <li>24/7 Support</li>
+                <li>10 Unique Users</li>
+                <li>Select Plan</li>
+            </ul>
+        </div> -->
+        
+        <ul class="Pricing__plans row">
+            <li class="plan">
+                <header class="plan__header">
+                    <h3>Starter Plan</h3>
+                    <h3 class="plan__price"> 29</h3>
+                </header>
+                <ul>
+                    <li>
+                        <p>Up to 10 users monthly</p>
+                    </li>
+                    <li>
+                        <p>Unlimited updates</p>
+                    </li>
+                    <li>
+                        <p>Free host & domain</p>
+                    </li>
+                    <li>
+                        <p>24/7 Support</p>
+                    </li>
+                    <li>
+                        <p>10 Unique Users</p>
+                    </li>
+                </ul>
+                <footer>Select Plan</footer>
+            </li>
+            <li class="plan">
+                <header class="plan__header">
+                    <h3>Starter Plan</h3>
+                    <h3 class="plan__price"> 29</h3>
+                </header>
+                <ul>
+                    <li>
+                        <p>Up to 10 users monthly</p>
+                    </li>
+                    <li>
+                        <p>Unlimited updates</p>
+                    </li>
+                    <li>
+                        <p>Free host & domain</p>
+                    </li>
+                    <li>
+                        <p>24/7 Support</p>
+                    </li>
+                    <li>
+                        <p>10 Unique Users</p>
+                    </li>
+                </ul>
+                <footer>Select Plan</footer>
+            </li>
+            <li class="plan">
+                <header class="plan__header">
+                    <h3>Starter Plan</h3>
+                    <h3 class="plan__price"> 29</h3>
+                </header>
+                <ul>
+                    <li>
+                        <p>Up to 10 users monthly</p>
+                    </li>
+                    <li>
+                        <p>Unlimited updates</p>
+                    </li>
+                    <li>
+                        <p>Free host & domain</p>
+                    </li>
+                    <li>
+                        <p>24/7 Support</p>
+                    </li>
+                    <li>
+                        <p>10 Unique Users</p>
+                    </li>
+                </ul>
+                <footer>Select Plan</footer>
+            </li>
+            <li class="plan">
+                <header class="plan__header">
+                    <h3>Starter Plan</h3>
+                    <h3 class="plan__price"> 29</h3>
+                </header>
+                <ul>
+                    <li>
+                        <p>Up to 10 users monthly</p>
+                    </li>
+                    <li>
+                        <p>Unlimited updates</p>
+                    </li>
+                    <li>
+                        <p>Free host & domain</p>
+                    </li>
+                    <li>
+                        <p>24/7 Support</p>
+                    </li>
+                    <li>
+                        <p>10 Unique Users</p>
+                    </li>
+                </ul>
+                <footer>Select Plan</footer>
+            </li>
+        </ul>
+
+    </div>
+</section> 
+<!-- testimonials -->
+<section class="testimonials">
+    <div class="container">
+        <i class="fas fa-quote-left fa-3x"></i>
+        <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio
+            eveniet sunt praesentium odit amet modi dolore veritatis repudiandae
+            inventore nihil, perferendis iusto, quidem pariatur nam neque,
+            excepturi deleniti molestiae quis.
+        </p>
+        <div class="testimonials__stars">
+            <i class="star"></i>
+            <i class="star"></i>
+            <i class="star"></i>
+        </div>
+        <div class="testimonials__slider">
+            <figure>
+                <img src="Assets/bg-img/client-1.jpg" alt="" />
+            </figure>
+            <figure>
+                <img src="Assets/bg-img/client-2.jpg" alt="" />
+            </figure>
+            <figure>
+                <img src="Assets/bg-img/client-3.jpg" alt="" />
+        </div>
+        </figure>
+        <div class="testimonials__radioes">
+            <input type="radio" name="testimonials__radio" />
+            <input type="radio" name="testimonials__radio" />
+            <input type="radio" name="testimonials__radio" />
+            <input type="radio" name="testimonials__radio" />
+        </div>
+    </div>
+</section> 
+    </main>
