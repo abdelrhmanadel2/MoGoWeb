@@ -24,7 +24,7 @@
   <link href="css/sass.css" rel="stylesheet" type="text/css" />
 </head>
 
-<body class="position-relative">
+<body data-spy="scroll" data-target=".navbar" data-offset="50" class="position-relative">
 <!-- loader -->
 <div class="loader position-fixed">
   <div class="loader-content">
@@ -52,7 +52,7 @@
   <!-- navbar -->
   <nav id="navbar" class="navbar navbar-expand-lg navbar-light fixed-top ">
     <div class="container">
-      <a class="navbar-brand text-white" href="#">MoGo</a>
+      <a class="navbar-brand text-white" href="#home">MoGo</a>
       <div class="d-lg-none">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -64,9 +64,6 @@
       </div>
       <div class="collapse navbar-collapse " id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item home">
-            <a class="nav-link  " href="#home">HOME</a>
-          </li>
           <li class="nav-item about-us">
             <a class="nav-link " href="#about-us">ABOUT</a>
           </li>

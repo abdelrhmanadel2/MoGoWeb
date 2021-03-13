@@ -576,6 +576,10 @@ header ol li span {
   background: rgba(241, 114, 114, 0.96);
 }
 
+#navbar .container {
+  color: #fce38a;
+}
+
 #navbar .container .navbar-brand {
   font-size: 30px;
   color: #ffffff;
@@ -585,25 +589,17 @@ header ol li span {
 
 #navbar .container .nav-link {
   color: white;
-  padding-bottom: 0;
+  padding-bottom: 5px;
   padding-top: 0;
 }
 
-#navbar .container li.active {
+#navbar .container li {
   width: fit-content;
-  color: #fce38a;
 }
 
-#navbar .container li.active ::after {
-  content: "";
-  position: relative;
-  border-top: 3px solid #fce38a;
-  display: block;
-  width: 100%;
-}
-
-#navbar .container li.active a {
-  color: #fce38a;
+#navbar .container .nav-link.active {
+  color: #fce38a !important;
+  border-bottom: 1px solid #fce38a;
 }
 
 #navbar .container i {
